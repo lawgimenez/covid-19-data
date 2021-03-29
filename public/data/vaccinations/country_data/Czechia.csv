@@ -1,86 +1,92 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Czechia,2020-12-27,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,1258,1258,0
-Czechia,2020-12-28,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,3555,3555,0
-Czechia,2020-12-29,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,7005,7005,0
-Czechia,2020-12-30,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,10477,10477,0
-Czechia,2020-12-31,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,11791,11791,0
-Czechia,2021-01-01,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,12054,12054,0
-Czechia,2021-01-02,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,13312,13312,0
-Czechia,2021-01-03,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,14229,14229,0
-Czechia,2021-01-04,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,17808,17808,0
-Czechia,2021-01-05,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,22329,22329,0
-Czechia,2021-01-06,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,28159,28159,0
-Czechia,2021-01-07,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,36129,36129,0
-Czechia,2021-01-08,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,46091,46091,0
-Czechia,2021-01-09,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,48100,48100,0
-Czechia,2021-01-10,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,49823,49823,0
-Czechia,2021-01-11,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,59623,59623,0
-Czechia,2021-01-12,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,73020,73020,0
-Czechia,2021-01-13,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,86519,86519,0
-Czechia,2021-01-14,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,101710,101710,0
-Czechia,2021-01-15,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,115648,115648,0
-Czechia,2021-01-16,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,119026,119026,0
-Czechia,2021-01-17,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,122256,121622,634
-Czechia,2021-01-18,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,136516,134079,2437
-Czechia,2021-01-19,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,151636,146499,5137
-Czechia,2021-01-20,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,167807,160048,7759
-Czechia,2021-01-21,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,185009,175527,9482
-Czechia,2021-01-22,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,200772,190254,10518
-Czechia,2021-01-23,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,204899,193516,11383
-Czechia,2021-01-24,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,207998,195754,12244
-Czechia,2021-01-25,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,220543,205357,15186
-Czechia,2021-01-26,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,234981,215837,19144
-Czechia,2021-01-27,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,248410,224780,23630
-Czechia,2021-01-28,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,261521,231808,29713
-Czechia,2021-01-29,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,275473,237983,37490
-Czechia,2021-01-30,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,277269,238698,38571
-Czechia,2021-01-31,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,279106,239397,39709
-Czechia,2021-02-01,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,290770,243215,47555
-Czechia,2021-02-02,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,305018,247318,57700
-Czechia,2021-02-03,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,320339,251698,68641
-Czechia,2021-02-04,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,338095,256568,81527
-Czechia,2021-02-05,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,354076,261968,92108
-Czechia,2021-02-06,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,357232,262800,94432
-Czechia,2021-02-07,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,360539,263643,96896
-Czechia,2021-02-08,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,375845,267641,108204
-Czechia,2021-02-09,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,392697,272665,120032
-Czechia,2021-02-10,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,411267,278166,133101
-Czechia,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,433399,284358,149041
-Czechia,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,454650,291026,163624
-Czechia,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,459169,292596,166573
-Czechia,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,461513,293574,167939
-Czechia,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,477103,299883,177220
-Czechia,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,494540,308437,186103
-Czechia,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,512319,318014,194305
-Czechia,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,532379,330192,202187
-Czechia,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,551254,341875,209379
-Czechia,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,554322,343780,210542
-Czechia,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,556339,344796,211543
-Czechia,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,572237,354733,217504
-Czechia,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,591769,367388,224381
-Czechia,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,611407,381085,230322
-Czechia,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,634532,398722,235810
-Czechia,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,655646,414606,241040
-Czechia,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,659097,417513,241584
-Czechia,2021-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,661958,419836,242122
-Czechia,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,684268,438840,245428
-Czechia,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,714299,465386,248913
-Czechia,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,748442,495139,253303
-Czechia,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,785041,527186,257855
-Czechia,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,818182,555028,263154
-Czechia,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,830366,566383,263983
-Czechia,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,841983,577179,264804
-Czechia,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,875617,606131,269486
-Czechia,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,917088,641328,275760
-Czechia,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,964309,681705,282604
-Czechia,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1016199,725497,290702
-Czechia,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1062443,763475,298968
-Czechia,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1080393,780163,300230
-Czechia,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1093401,792067,301334
-Czechia,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1129567,819568,309999
-Czechia,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1177657,857383,320274
-Czechia,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1224081,893478,330603
-Czechia,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1272289,929594,342695
-Czechia,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1317066,961697,355369
-Czechia,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1332651,975399,357252
-Czechia,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1340728,981970,358758
+Czechia,2020-12-27,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,1249,1249,0
+Czechia,2020-12-28,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,3541,3541,0
+Czechia,2020-12-29,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,6982,6982,0
+Czechia,2020-12-30,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,10441,10441,0
+Czechia,2020-12-31,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,11747,11747,0
+Czechia,2021-01-01,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,12007,12007,0
+Czechia,2021-01-02,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,13257,13257,0
+Czechia,2021-01-03,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,14170,14170,0
+Czechia,2021-01-04,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,17731,17731,0
+Czechia,2021-01-05,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,22225,22225,0
+Czechia,2021-01-06,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,28033,28033,0
+Czechia,2021-01-07,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,35983,35983,0
+Czechia,2021-01-08,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,45906,45906,0
+Czechia,2021-01-09,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,47913,47913,0
+Czechia,2021-01-10,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,49633,49633,0
+Czechia,2021-01-11,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,59408,59408,0
+Czechia,2021-01-12,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,72752,72752,0
+Czechia,2021-01-13,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,86218,86218,0
+Czechia,2021-01-14,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,101377,101377,0
+Czechia,2021-01-15,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,115286,115286,0
+Czechia,2021-01-16,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,118657,118657,0
+Czechia,2021-01-17,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,121882,121250,632
+Czechia,2021-01-18,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,136134,133701,2433
+Czechia,2021-01-19,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,151257,146126,5131
+Czechia,2021-01-20,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,167405,159658,7747
+Czechia,2021-01-21,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,184598,175131,9467
+Czechia,2021-01-22,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,200353,189850,10503
+Czechia,2021-01-23,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,204482,193114,11368
+Czechia,2021-01-24,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,207580,195351,12229
+Czechia,2021-01-25,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,220116,204948,15168
+Czechia,2021-01-26,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,234552,215432,19120
+Czechia,2021-01-27,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,247971,224373,23598
+Czechia,2021-01-28,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,261074,231400,29674
+Czechia,2021-01-29,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,275027,237573,37454
+Czechia,2021-01-30,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,276821,238288,38533
+Czechia,2021-01-31,Pfizer/BioNTech,https://onemocneni-aktualne.mzcr.cz/covid-19,278658,238988,39670
+Czechia,2021-02-01,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,290330,242805,47525
+Czechia,2021-02-02,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,304579,246909,57670
+Czechia,2021-02-03,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,319890,251288,68602
+Czechia,2021-02-04,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,337633,256147,81486
+Czechia,2021-02-05,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,353623,261556,92067
+Czechia,2021-02-06,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,356783,262390,94393
+Czechia,2021-02-07,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,360091,263233,96858
+Czechia,2021-02-08,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,375406,267235,108171
+Czechia,2021-02-09,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,392265,272260,120005
+Czechia,2021-02-10,"Moderna, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,410836,277761,133075
+Czechia,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,433010,283988,149022
+Czechia,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,454286,290672,163614
+Czechia,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,458806,292241,166565
+Czechia,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,461151,293220,167931
+Czechia,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,476748,299531,177217
+Czechia,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,494237,308110,186127
+Czechia,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,512051,317717,194334
+Czechia,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,532200,329922,202278
+Czechia,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,551098,341618,209480
+Czechia,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,554160,343518,210642
+Czechia,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,556178,344536,211642
+Czechia,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,572171,354560,217611
+Czechia,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,591789,367294,224495
+Czechia,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,611482,381020,230462
+Czechia,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,634792,398838,235954
+Czechia,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,656008,414804,241204
+Czechia,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,659474,417725,241749
+Czechia,2021-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,662336,420048,242288
+Czechia,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,684824,439121,245703
+Czechia,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,714955,465753,249202
+Czechia,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,749449,495794,253655
+Czechia,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,786305,528083,258222
+Czechia,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,819652,556111,263541
+Czechia,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,832193,567820,264373
+Czechia,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,844015,578821,265194
+Czechia,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,877744,607847,269897
+Czechia,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,919442,643246,276196
+Czechia,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,966853,683791,283062
+Czechia,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1018991,727697,291294
+Czechia,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1065365,765751,299614
+Czechia,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1083344,782466,300878
+Czechia,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1096369,794380,301989
+Czechia,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1132648,821976,310672
+Czechia,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1181007,859975,321032
+Czechia,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1227989,896552,331437
+Czechia,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1277100,933365,343735
+Czechia,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1324013,966907,357106
+Czechia,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1340613,981515,359098
+Czechia,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1349368,988753,360615
+Czechia,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1385476,1012569,372907
+Czechia,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1424481,1038393,386088
+Czechia,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1466128,1064555,401573
+Czechia,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1508839,1089721,419118
+Czechia,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1548914,1113184,435730
+Czechia,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://onemocneni-aktualne.mzcr.cz/covid-19,1560919,1121007,439912

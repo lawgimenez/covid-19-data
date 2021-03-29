@@ -83,6 +83,12 @@ date,location,vaccine,total_vaccinations
 2021-03-18,Romania,Pfizer/BioNTech,1946513
 2021-03-19,Romania,Pfizer/BioNTech,1984407
 2021-03-20,Romania,Pfizer/BioNTech,2022454
+2021-03-21,Romania,Pfizer/BioNTech,2054609
+2021-03-22,Romania,Pfizer/BioNTech,2090459
+2021-03-23,Romania,Pfizer/BioNTech,2135815
+2021-03-24,Romania,Pfizer/BioNTech,2182617
+2021-03-25,Romania,Pfizer/BioNTech,2229733
+2021-03-26,Romania,Pfizer/BioNTech,2273184
 2020-12-27,Romania,Moderna,0
 2020-12-28,Romania,Moderna,0
 2020-12-29,Romania,Moderna,0
@@ -167,6 +173,12 @@ date,location,vaccine,total_vaccinations
 2021-03-18,Romania,Moderna,165150
 2021-03-19,Romania,Moderna,169966
 2021-03-20,Romania,Moderna,174732
+2021-03-21,Romania,Moderna,179154
+2021-03-22,Romania,Moderna,183177
+2021-03-23,Romania,Moderna,187546
+2021-03-24,Romania,Moderna,191868
+2021-03-25,Romania,Moderna,196122
+2021-03-26,Romania,Moderna,200231
 2020-12-27,Romania,Oxford/AstraZeneca,0
 2020-12-28,Romania,Oxford/AstraZeneca,0
 2020-12-29,Romania,Oxford/AstraZeneca,0
@@ -251,3 +263,9 @@ date,location,vaccine,total_vaccinations
 2021-03-18,Romania,Oxford/AstraZeneca,256243
 2021-03-19,Romania,Oxford/AstraZeneca,263394
 2021-03-20,Romania,Oxford/AstraZeneca,271485
+2021-03-21,Romania,Oxford/AstraZeneca,279325
+2021-03-22,Romania,Oxford/AstraZeneca,286648
+2021-03-23,Romania,Oxford/AstraZeneca,294985
+2021-03-24,Romania,Oxford/AstraZeneca,302969
+2021-03-25,Romania,Oxford/AstraZeneca,310485
+2021-03-26,Romania,Oxford/AstraZeneca,318056

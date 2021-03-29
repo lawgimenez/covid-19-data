@@ -1,6 +1,6 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
 Hong Kong,2021-02-21,Sinovac,https://www.news.gov.hk/eng/2021/02/20210228/20210228_224304_173.html?type=category&name=health,0,0,
-Hong Kong,2021-02-26,Sinovac,https://www.info.gov.hk/gia/general/202102/26/P2021022600899.htm?fontSize=1,6000,6000,
+Hong Kong,2021-02-26,Sinovac,https://www.info.gov.hk/gia/general/202102/26/P2021022600899.htm?fontSize=1,6600,6600,
 Hong Kong,2021-02-27,Sinovac,https://www.info.gov.hk/gia/general/202102/27/P2021022700745.htm?fontSize=1,13600,13600,
 Hong Kong,2021-02-28,Sinovac,https://www.news.gov.hk/eng/2021/02/20210228/20210228_224304_173.html?type=category&name=health,20000,20000,
 Hong Kong,2021-03-01,Sinovac,https://www.info.gov.hk/gia/general/202103/01/P2021030100884.htm?fontSize=1,27000,27000,
@@ -24,3 +24,9 @@ Hong Kong,2021-03-18,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/gene
 Hong Kong,2021-03-19,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/19/P2021031900892.htm,304100,304100,
 Hong Kong,2021-03-20,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/20/P2021032000864.htm,330600,330600,
 Hong Kong,2021-03-21,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/21/P2021032100742.htm,354400,354400,
+Hong Kong,2021-03-22,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/22/P2021032200809.htm,379600,379600,
+Hong Kong,2021-03-23,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/23/P2021032300777.htm,403000,403000,
+Hong Kong,2021-03-24,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/24/P2021032400841.htm,412800,412800,
+Hong Kong,2021-03-25,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/25/P2021032500813.htm,420900,420900,
+Hong Kong,2021-03-26,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/26/P2021032600887.htm,435100,429500,5600
+Hong Kong,2021-03-27,"Pfizer/BioNTech, Sinovac",https://www.info.gov.hk/gia/general/202103/27/P2021032700834.htm,449200,437200,12000

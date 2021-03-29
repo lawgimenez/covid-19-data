@@ -1,4 +1,5 @@
 location,automated
+Albania,TRUE
 Argentina,TRUE
 Australia,TRUE
 Austria,TRUE
@@ -38,13 +39,13 @@ Lebanon,TRUE
 Liechtenstein,TRUE
 Lithuania,TRUE
 Luxembourg,TRUE
-Maldives,TRUE
 Malta,TRUE
 Moldova,TRUE
 Mongolia,TRUE
 Montenegro,TRUE
 Morocco,TRUE
 Netherlands,TRUE
+Northern Cyprus,TRUE
 Northern Ireland,TRUE
 Norway,TRUE
 Peru,TRUE
@@ -62,6 +63,7 @@ Slovenia,TRUE
 South Africa,TRUE
 South Korea,TRUE
 Spain,TRUE
+Sri Lanka,TRUE
 Suriname,TRUE
 Sweden,TRUE
 Switzerland,TRUE
@@ -73,7 +75,6 @@ United States,TRUE
 Uruguay,TRUE
 Wales,TRUE
 Afghanistan,FALSE
-Albania,FALSE
 Algeria,FALSE
 Andorra,FALSE
 Angola,FALSE
@@ -116,17 +117,18 @@ Laos,FALSE
 Macao,FALSE
 Malawi,FALSE
 Malaysia,FALSE
+Maldives,FALSE
 Mauritius,FALSE
 Mexico,FALSE
 Monaco,FALSE
 Montserrat,FALSE
 Mozambique,FALSE
 Myanmar,FALSE
+Namibia,FALSE
 Nepal,FALSE
 New Zealand,FALSE
 Nigeria,FALSE
 North Macedonia,FALSE
-Northern Cyprus,FALSE
 Oman,FALSE
 Pakistan,FALSE
 Panama,FALSE
@@ -140,8 +142,10 @@ Saint Vincent and the Grenadines,FALSE
 Senegal,FALSE
 Serbia,FALSE
 Seychelles,FALSE
-Sri Lanka,FALSE
+Sierra Leone,FALSE
+Taiwan,FALSE
 Thailand,FALSE
+Togo,FALSE
 Trinidad and Tobago,FALSE
 Tunisia,FALSE
 Turks and Caicos Islands,FALSE
